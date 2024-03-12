@@ -1,0 +1,47 @@
+[
+ {
+  "StuName": "Sravya",
+  "StuId": 303,
+  "StuEmail": "sravya@gmail.com"
+ },
+ {
+  "StuName": "Srineela ",
+  "StuId": 335,
+  "StuEmail": "srineelareddy@gmail.com"
+ },
+ {
+  "StuName": "Varsha",
+  "StuId": 307,
+  "StuEmail": "varsha@gmail.com"
+ },
+ {
+  "StuName": "Arshitha",
+  "StuId": 358,
+  "StuEmail": "arshithavarma@gmail.com"
+ },
+ {
+  "StuName": "Kavya",
+  "StuId": 301,
+  "StuEmail": "kavykontham@gmail.com"
+ },
+ {
+  "StuName": "Navya",
+  "StuId": 319,
+  "StuEmail": "navya@gmail.com"
+ },
+ {
+  "StuName": "chandana",
+  "StuId": 316,
+  "StuEmail": "chandana@gmail.com"
+ },
+ {
+  "StuName": "akhila",
+  "StuId": 321,
+  "StuEmail": "akhila@gmail.com"
+ },
+ {
+  "StuName": "harshini",
+  "StuId": 317,
+  "StuEmail": "harshini@gmail.com"
+ }
+]
