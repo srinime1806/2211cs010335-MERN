@@ -1,0 +1,27 @@
+[
+ {
+  "NAME": "Dr. Meeravali Shaikh",
+  "DESIGNATION": "HOD",
+  "QUALIFICATION": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE"
+ },
+ {
+  "NAME": "Dr.Arun Singh Chouhan",
+  "DESIGNATION": "Associate Professor",
+  "QUALIFICATION": "B.E (CSE), M. Tech (CSE), Ph. D (CSE)"
+ },
+ {
+  "NAME": "Dr.M.Narayanan",
+  "DESIGNATION": "Professor",
+  "QUALIFICATION": "B.E (CSE), M.E (CSE),Ph. D (CSE)"
+ },
+ {
+  "NAME": "Dr.M.Ravikanth",
+  "DESIGNATION": "Associate Professor",
+  "QUALIFICATION": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)"
+ },
+ {
+  "NAME": "Dr.P.Rambabu",
+  "DESIGNATION": "Professor",
+  "QUALIFICATION": "B.Tech(Civil), M. Tech(Remote Sensing),Ph. D(Remote Sensing)"
+ }
+]
